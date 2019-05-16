@@ -9,11 +9,7 @@
  * 作者姓名           修改时间           版本号              描述
  */
 
-import com.zephon.factory.builder.AirShip;
-import com.zephon.factory.builder.AirShipDirector;
-import com.zephon.factory.builder.MyAirShipBuilder;
-import com.zephon.factory.builder.MyAirShipDirector;
-import prototype.Sheep;
+import com.zephon.factory.prototype.Sheep;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
